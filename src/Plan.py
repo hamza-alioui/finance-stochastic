@@ -35,27 +35,28 @@
 
 
 
-#3## Mecredi:    5h: bike, 8h: work, 12h: work, 14h: work, 18h: ----, 20h: chst, 21h: ----, 22h: read		>>> Submit Stoc Finan (Part 1).
-# ## Jeudi:      5h: ru12, 8h: Work, 12h:lunch, 14h: Work, 18h: cook, 20h: proj, 21h: proj, 22h: read		>>> Conclusion,
+
 # ## Vendredi:   5h: bike, 8h: work, 12h: work, 14h: work, 18h: ----, 20h: back, 21h: ----, 22h: read		>>> Finish Conclusion 05/04.
 # ## Samedi:     5h: bike, 8h: room, 12h: mrkt, 14h: proj, 18h: proj, 20h: ----, 21h: ----, 22h: ----   	>>>
-# ## Dimache:    5h: bike, 8h: clot, 12h: cook, 14h: proj, 18h: ru24, 20h: ----, 21h: ----, 22h: ----		>>>
+# ## Dimache:    5h: 119k, 8h: clot, 12h: cook, 14h: proj, 18h: ru24, 20h: ----, 21h: ----, 22h: ----		>>>
 # ## Lundi:      5h: ----, 8h: work, 12h: work, 14h: work, 18h: ru1x, 20h: legs, 21h: lang, 22h: read		>>> Financ Stoc Meeting
 # ## Mardi:      5h: work, 8h: proj, 12h: proj, 14h: proj, 18h: ru1x, 20h: core, 21h: proj, 22h: read		>>> Stoc Finan (Part 2)
 #0## Mecredi:    5h: bike, 8h: work, 12h: work, 14h: work, 18h: chst, 20h: ----, 21h: proj, 22h: read		>>> Submit Stoc Finan (Part 2).
 # ## Jeudi:      5h: ru12, 8h: Work, 12h:lunch, 14h: Work, 18h: cook, 20h: proj, 21h: proj, 22h: read		>>> Data Collection,
 # ## Vendredi:   5h: bike, 8h: work, 12h: work, 14h: work, 18h: ----, 20h: back, 21h: ----, 22h: read		>>> Finish Data Collection 12/04.
-# ## Samedi:     5h: bike, 8h: room, 12h: mrkt, 14h: proj, 18h: proj, 20h: ----, 21h: ----, 22h: ----   	>>> Following steps,
-# ## Dimache:    5h: bike, 8h: clot, 12h: cook, 14h: proj, 18h: ru24, 20h: ----, 21h: ----, 22h: ----		>>> Following steps,
+# ## Samedi:     5h: 125k, 8h: room, 12h: mrkt, 14h: proj, 18h: proj, 20h: ----, 21h: ----, 22h: ----   	>>> Following steps, Neuhaus,
+# ## Dimache:    5h: bike, 8h: clot, 12h: cook, 14h: proj, 18h: ru24, 20h: ----, 21h: ----, 22h: ----		>>> Following steps, Bike 128, Halle bos
 # ## Lundi:      5h: ----, 8h: work, 12h: work, 14h: work, 18h: ru1x, 20h: legs, 21h: lang, 22h: read		>>> Finish Following steps 15/04.
-# ## Mardi:      5h: work, 8h: proj, 12h: proj, 14h: proj, 18h: ru1x, 20h: core, 21h: proj, 22h: read		>>> Introduction,
+# ## Mardi:      5h: work, 8h: proj, 12h: proj, 14h: proj, 18h: ru1x, 20h: core, 21h: proj, 22h: read		>>> Introduction, HotWheelz
 #7## Mecredi:    5h: bike, 8h: work, 12h: work, 14h: work, 18h: chst, 20h: ----, 21h: proj, 22h: read		>>> Finish Introduction 19/04 & submit for review.
 # ## Jeudi:      5h: ru12, 8h: Work, 12h:lunch, 14h: Work, 18h: cook, 20h: proj, 21h: proj, 22h: read		>>> Review Part 1,
 # ## Vendredi:   5h: bike, 8h: work, 12h: work, 14h: work, 18h: back, 20h: ----, 21h: proj, 22h: read		>>> Review Part 1.
-# ## Samedi:     5h: bike, 8h: room, 12h: mrkt, 14h: proj, 18h: proj, 20h: ----, 21h: proj, 22h: ----   	>>> LBL Race
+# ## Samedi:     5h: 150K, 8h: room, 12h: mrkt, 14h: proj, 18h: proj, 20h: ----, 21h: proj, 22h: ----   	>>> LBL Race
 # ## Dimache:    5h: bike, 8h: clot, 12h: cook, 14h: proj, 18h: ru24, 20h: ----, 21h: proj, 22h: ----		>>>
 # ## Lundi:      5h: ----, 8h: work, 12h: work, 14h: work, 18h: ----, 20h: legs, 21h: lang, 22h: read		>>>
 # ## Mardi:      5h: ----, 8h: work, 12h: work, 14h: work, 18h: ru10, 20h: core, 21h: proj, 22h: read		>>>
+#4## Mecredi:    5h: bike, 8h: work, 12h: work, 14h: work, 18h: ----, 20h: chst, 21h: ----, 22h: read		>>>
+# ## Jeudi:      5h: ru12, 8h: Work, 12h:lunch, 14h: Work, 18h: cook, 20h: proj, 21h: proj, 22h: read		>>>
 
 
 # ## TODO PLAN
@@ -63,10 +64,12 @@
 # ## Nutrition: Creatina, aronia,
 
 # ## Obstacles (0/5): Submit Stoc Finan (15/04)
-# ## Obstacles (0/5): Submit thesis (???)
-# ## Obstacles (0/5): Exam Stoc Finan (One week review)
-# ## Obstacles (0/5): Exam Info/Coding (One week study)
-# ## Obstacles (0/5): Exam Linguistic (print slides and books to study in Alps Code as well)
+# ## Obstacles (0/5): Submit thesis (June session 2024: June 3, 12h00 latest date for withdrawal from session: May 27)
+# ## Obstacles (0/5): Exam LACTU2170 - Stoc Finan (03/06 - 08h30 - MONT01)
+# ## Obstacles (0/5): Exam LINGI2348 - Info/Coding (05/06 - 16h30 - BARB93)
+# ## Obstacles (0/5): Exam Linguistic (12/08 a 02/09)
+
+# ## 1 week
 
 
 # ## TODO SHORT
@@ -76,6 +79,8 @@
 # ## Trip to London (17/05-21/05)
 # ## Running Race 20km Brussels (26/05)
 # ## Alpes (28/06 - 07/07)
+# ## Ana & Dedo (2O/09 - 22/09)
+# ## Bruno (12/10 - 13/10)
 
 # ## Carte Profissionelle:
 # ## Business counters contact:
