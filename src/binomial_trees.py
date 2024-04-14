@@ -145,7 +145,6 @@ def binomial_tree_bermudian_call(S, K, T, r, sigma, N):
 
                 option_price[k,i] = np.maximum(payoff, np.exp(-r*delta_t) * (p * option_price[k+1,i] + (1 - p) * option_price[k+1,i+1]))
 
-
             else:
 
                 option_price[k,i] = np.exp(-r*delta_t) * (p * option_price[k+1,i] + (1 - p) * option_price[k+1,i+1])
